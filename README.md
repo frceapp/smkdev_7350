@@ -1,6 +1,6 @@
 "# smkdev_7350" 
 
-**Weekly Coding Challenge Advance #7350**
+# Weekly Coding Challenge Advance #7350
 
 Write a program to display all prime numbers within a range
 
@@ -14,7 +14,7 @@ Examples:
 
 Input :
 
-# range
+**range**
 start = 25
 end = 50
 Output :
